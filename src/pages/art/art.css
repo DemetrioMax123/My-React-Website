@@ -1,0 +1,57 @@
+.artContainer {
+  display: flex;
+  flex-direction: column;
+  font-family: fantasy;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.artContainer img {
+  width: 200px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.drawings {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(125, 21, 221);
+}
+button {
+  background-color: rgb(138, 87, 189);
+  height: 30px;
+  width: 30px;
+
+  border: none;
+  font-weight: bolder;
+}
+.plusPoint {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.minusPoint {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+input {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.ratingBtn {
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+.barOfPoints {
+  font-weight: bolder;
+}

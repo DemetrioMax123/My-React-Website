@@ -1,0 +1,16 @@
+.menuContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.sections {
+  display: flex;
+  flex-direction: row;
+}
+.artSection {
+  margin-right: 15px;
+}
+a {
+  text-decoration: none;
+}
