@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-react-website/static/css/main.959001a9.css",
-    "main.js": "/my-react-website/static/js/main.a5ed7237.js",
-    "static/media/6.jpg": "/my-react-website/static/media/6.6fb5708faa7d7e4c6a5e.jpg",
-    "static/media/4.jpg": "/my-react-website/static/media/4.aaa27b1e59b23adc1517.jpg",
-    "static/media/7.jpg": "/my-react-website/static/media/7.55f606046be90fd91eef.jpg",
-    "static/media/8.jpg": "/my-react-website/static/media/8.5ec34afca72b0b24486d.jpg",
-    "static/media/5.jpg": "/my-react-website/static/media/5.1db48b140f7d5c0601ab.jpg",
-    "static/media/2.jpg": "/my-react-website/static/media/2.19d648b9753c4e99f4a6.jpg",
-    "static/media/10.jpg": "/my-react-website/static/media/10.9564fc124f3a94dcd2be.jpg",
-    "static/media/3.jpg": "/my-react-website/static/media/3.7b563aee12b773677c67.jpg",
-    "static/media/1.jpg": "/my-react-website/static/media/1.39875957dba5432ec091.jpg",
-    "static/media/9.jpg": "/my-react-website/static/media/9.a3b608b7626fa6f297a0.jpg",
-    "index.html": "/my-react-website/index.html",
-    "main.959001a9.css.map": "/my-react-website/static/css/main.959001a9.css.map",
-    "main.a5ed7237.js.map": "/my-react-website/static/js/main.a5ed7237.js.map"
+    "main.css": "/My-React-Website/static/css/main.959001a9.css",
+    "main.js": "/My-React-Website/static/js/main.14eef2d6.js",
+    "static/media/6.jpg": "/My-React-Website/static/media/6.6fb5708faa7d7e4c6a5e.jpg",
+    "static/media/4.jpg": "/My-React-Website/static/media/4.aaa27b1e59b23adc1517.jpg",
+    "static/media/7.jpg": "/My-React-Website/static/media/7.55f606046be90fd91eef.jpg",
+    "static/media/8.jpg": "/My-React-Website/static/media/8.5ec34afca72b0b24486d.jpg",
+    "static/media/5.jpg": "/My-React-Website/static/media/5.1db48b140f7d5c0601ab.jpg",
+    "static/media/2.jpg": "/My-React-Website/static/media/2.19d648b9753c4e99f4a6.jpg",
+    "static/media/10.jpg": "/My-React-Website/static/media/10.9564fc124f3a94dcd2be.jpg",
+    "static/media/3.jpg": "/My-React-Website/static/media/3.7b563aee12b773677c67.jpg",
+    "static/media/1.jpg": "/My-React-Website/static/media/1.39875957dba5432ec091.jpg",
+    "static/media/9.jpg": "/My-React-Website/static/media/9.a3b608b7626fa6f297a0.jpg",
+    "index.html": "/My-React-Website/index.html",
+    "main.959001a9.css.map": "/My-React-Website/static/css/main.959001a9.css.map",
+    "main.14eef2d6.js.map": "/My-React-Website/static/js/main.14eef2d6.js.map"
   },
   "entrypoints": [
     "static/css/main.959001a9.css",
-    "static/js/main.a5ed7237.js"
+    "static/js/main.14eef2d6.js"
   ]
 }
